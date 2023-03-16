@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+    <title>연습문제</title>
+    <meta charset="UTF-8" />
+</head>
+<body>
+    <h3>시간표</h3>
+    <table boarder="1">
+        <caption>Timetable</caption>
+            <tr>
+                <td rowspan="3"><th>교<br>시</th></td>
+                <th>월</th>
+                <th>화</th>
+                <th>수</th>
+                <th>목</th>
+                <th>금</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <td rowspan="3">웹프로<br>그래밍</td>
+                <td> </td>
+                <td rowspan="3">인공지능<br>개론</td>
+                <td></td>
+                <td rowspan="3">웹프로<br>그래밍</td>
+            </tr>
+            <tr>
+                <th>2</th>
+                <td>인공지능개론</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><th>3</th></td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td><th>4</th></td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+            </tr>
+            <tr>
+                <td><th>5</th></td>
+                <td></td>
+                <td>인제새내기세미나</td>
+                <td rowspan="3">논리<br>수학</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><th>6</th></td>
+                <td rowspan="3">빅데이터<br>기초</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><th>7</th></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+    </table>
+</body>
