@@ -5,7 +5,7 @@
 </head>
 <body>
     <h3>시간표</h3>
-    <table boarder="1">
+    <table border="1" >
         <caption>Timetable</caption>
             <tr>
                 <td rowspan="3"><th>교<br>시</th></td>
@@ -17,8 +17,8 @@
             </tr>
             <tr>
                 <th>1</th>
-                <td rowspan="3">웹프로<br>그래밍</td>
-                <td> </td>
+                <td rowspan="2">웹프로<br>그래밍</td>
+                <td></td>
                 <td rowspan="3">인공지능<br>개론</td>
                 <td></td>
                 <td rowspan="3">웹프로<br>그래밍</td>
@@ -30,9 +30,7 @@
             </tr>
             <tr>
                 <td><th>3</th></td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
+                <td></td>
                 <td> </td>
                 <td> </td>
             </tr>
@@ -58,12 +56,9 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td><th>7</th></td>
-                <td></td>
-                <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
