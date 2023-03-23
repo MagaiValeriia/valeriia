@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>이미지프레임과 링크</title>
+    <meta charset="UTF-8" />
+</head>
+<body>
+    <h3>고양이의 모습</h3>
+    <p>야웅야웅 귀여운 고양이의 모습을 보여주어요</p>
+    <table border="1">
+        <tr>
+            <td><a href="C:\Users\magay\OneDrive\Рабочий стол\고양이 모습.jpg" target="intro"><img src="C:\Users\magay\OneDrive\Рабочий стол\고양이 모습.jpg" width="150" height="100"></a></td>
+            <td><a href="C:\Users\magay\OneDrive\Рабочий стол\고양이 모습 1.jpg" target="intro"><img src="C:\Users\magay\OneDrive\Рабочий стол\고양이 모습 1.jpg" width="100" height="150"></a></td>
+        </tr>
+    <tr>
+        <td colspan="3">
+            <iframe src="" name="intro" width="520" height="390"> 
+            </iframe>
+        </td>
+    </tr>
+    </table>
+</body>
+</html>
