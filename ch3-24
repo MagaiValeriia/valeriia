@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+    <title>오디오/비디오 삽입</title>
+    <meta charset="UTF-8" />
+</head>
+<body>
+    <h3>고양이의 하루</h3>
+    <audio controls src="C:\Users\magay\OneDrive\Рабочий стол\고양이 울음소리.mp3"loop>
+    </audio>
+    <p>야웅야웅 귀여운 고양이의 하루를 살펴보아요.<br>
+        깜찍한 우리의 친구 Lucky는 오늘 하루 어떻게 지냈을까요?</p>
+        <embed width="560" height="315"
+    src="https://youtube.com/shorts/HuuWfSef0-k?feature=share"
+    allowfullscreen>
+        </embed>
+</body>
