@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+           #title:hover{border:thick double blue; padding:4px; background-color:rgb(255, 0, 60); font-size:xx-large; transition:border 4s, background-color 8s;}
+           h3{position:relative; left:10%; width:60% ; padding:5px; border-style:double}
+           #w3c_float{float:right; padding:5px}
+           #w3c_float:hover{border:thin solid rgb(0, 255, 183); width:108px; height:132px; transition: 4s;}
+        </style>   
+    </head>
+    <body>
+        <h3> <span id="title">리아의 취미</span></h3>
+        <img src="https://avatars.mds.yandex.net/i?id=c17c5183ba2559b3836dcc9d76cb0da9e1df209e-9181674-images-thumbs&n=13" id="w3c_float"  width="40" height="40" >
+    <p>
+        <strong><upper>1.그림 그리기 <br>
+        2.발로란트 게임하기 <br> </strong></upper>
+    </p>
+    </body>
+</html>
