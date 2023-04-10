@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>레스토랑 예약</title>
+    <meta charset="8">
+<head>
+    <html>
+        <body>
+            <h3>레스토랑 예약하기</h3>
+            <fieldset>
+                <legend>예약자 정보</legend>
+                <label for="user_id">예약자:</label>
+                <input type="text" name="id" size="20" id="user_id" > <br>
+                <label for="user_id">연락처 :</label> 
+                <input type="text" name="id" size="20" id="user_id" placeholder="000-0000-000"><br>예약인원:<select name="job" size="1">
+                    <option>1명</option>
+                    <option>2명</option>
+                    <option>3명</option>
+                    </select>
+            </fieldset>
+            <fieldset>
+                <legend>일자 선택 및 시간 선택</legend>
+                <input type="date" name="last_date" min="2013-01-30"> 
+                <input type="time" name="time_from" min="8:00" max="19:00">
+            </fieldset>
+            <input type="submit" value="예약"/>
+            <input type="submit" value="취소"/>
+        </body>
+    </html>
+</head>
